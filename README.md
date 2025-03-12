@@ -1,5 +1,5 @@
 <h1 align="center">Salom mening ismim Abdukarimov Oyatbek</h1>
-<h3 align="center">Uzbekistondan Frontend dasturchisi</h3>
+<h2 align="center">Uzbekistondan Frontend dasturchisi</h3>
 
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
 
