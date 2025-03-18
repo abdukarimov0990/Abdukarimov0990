@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Men bilan boglaning:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/n0name_0990/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/n0name_0990/?next=%2f" height="30" width="40" /></a>
 </p>
