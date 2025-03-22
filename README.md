@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [abdukarimov.vercel.app](abdukarimov.vercel.app)
 - 📫 How to reach me **oyatbek09@gmail.com**
-<h2 align="center">About me:</h3>
+<h1 align="center">About me:</h1>
 "I am a frontend developer, and I have experience working with HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap. My skills allow me to build modern, responsive, and visually appealing web applications that offer a seamless user experience.
 
 With HTML, I focus on writing clean, semantic code to ensure proper structure and accessibility. I use CSS to create visually engaging designs, utilizing techniques like Flexbox, Grid, animations, and transitions to enhance UI/UX. My expertise in JavaScript enables me to add interactivity and dynamic features to web applications, ensuring smooth user interactions.
