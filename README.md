@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [abdukarimov.vercel.app](abdukarimov.vercel.app)
 
-- 💬 Ask me about **Are you focusing on frontend development, or do you work with backend technologies too? What's your experience level with HTML, CSS, and JavaScript? Do you prefer using frameworks like React for building UIs, or are you more into vanilla JS? When it comes to styling, do you lean towards Tailwind CSS for utility-first styling, or do you prefer component-based libraries like Bootstrap? Also, how do you approach making websites responsive—do you use media queries, flexbox, grid, or frameworks? Let me know what you're currently working on or struggling with. I'm happy to help! 🚀**
+Are you focusing on frontend development, or do you work with backend technologies too? What's your experience level with HTML, CSS, and JavaScript? Do you prefer using frameworks like React for building UIs, or are you more into vanilla JS? When it comes to styling, do you lean towards Tailwind CSS for utility-first styling, or do you prefer component-based libraries like Bootstrap? Also, how do you approach making websites responsive—do you use media queries, flexbox, grid, or frameworks? Let me know what you're currently working on or struggling with. I'm happy to help! 🚀**
 
 - 📫 How to reach me **oyatbek09@gmail.com**
 
