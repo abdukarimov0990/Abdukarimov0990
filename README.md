@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [abdukarimov.vercel.app](abdukarimov.vercel.app)
+- 📫 How to reach me **oyatbek09@gmail.com**
 <h2 align="center">About me:</h3>
 "I am a frontend developer, and I have experience working with HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap. My skills allow me to build modern, responsive, and visually appealing web applications that offer a seamless user experience.
 
@@ -18,7 +19,6 @@ I prioritize responsive design, ensuring that my applications adapt to various s
 As a frontend developer, I am passionate about creating fast, accessible, and user-friendly web applications. I continuously strive to improve my skills by keeping up with the latest trends and best practices in web development."
 
 
-- 📫 How to reach me **oyatbek09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
