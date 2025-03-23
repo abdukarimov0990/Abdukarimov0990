@@ -3,22 +3,11 @@
 
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [[abdukarimov.vercel.app](abdukarimov.vercel.app)](https://github.com/abdukarimov0990/Portfolio)
+- 👨‍💻 All of my projects are available at [Abdukarimov portfolio](abdukarimov.vercel.app)
+
+- 💬 Ask me about **Are you focusing on frontend development, or do you work with backend technologies too? What's your experience level with HTML, CSS, and JavaScript? Do you prefer using frameworks like React for building UIs, or are you more into vanilla JS? When it comes to styling, do you lean towards Tailwind CSS for utility-first styling, or do you prefer component-based libraries like Bootstrap? Also, how do you approach making websites responsive—do you use media queries, flexbox, grid, or frameworks? Let me know what you're currently working on or struggling with. I'm happy to help! 🚀**
+
 - 📫 How to reach me **oyatbek09@gmail.com**
-<h1 align="center">About me:</h1>
-"I am a frontend developer, and I have experience working with HTML, CSS, JavaScript, React, Tailwind CSS, and Bootstrap. My skills allow me to build modern, responsive, and visually appealing web applications that offer a seamless user experience.
-
-With HTML, I focus on writing clean, semantic code to ensure proper structure and accessibility. I use CSS to create visually engaging designs, utilizing techniques like Flexbox, Grid, animations, and transitions to enhance UI/UX. My expertise in JavaScript enables me to add interactivity and dynamic features to web applications, ensuring smooth user interactions.
-
-I specialize in React.js, building reusable components and managing application state efficiently with React Hooks, Context API, and state management libraries. I also work with React Router to handle navigation and create single-page applications (SPAs).
-
-For styling, I use Tailwind CSS, a utility-first framework that helps me write concise and maintainable styles quickly. Additionally, I am proficient in Bootstrap, leveraging its responsive grid system, pre-built components, and utility classes to speed up development.
-
-I prioritize responsive design, ensuring that my applications adapt to various screen sizes and devices. I achieve this using media queries, fluid layouts, and mobile-first design principles, along with CSS frameworks like Tailwind and Bootstrap.
-
-As a frontend developer, I am passionate about creating fast, accessible, and user-friendly web applications. I continuously strive to improve my skills by keeping up with the latest trends and best practices in web development."
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
