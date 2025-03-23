@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
 
-- 👨‍💻 All of my projects are available at ([Abdukarimov portfolio]https://github.com/abdukarimov0990/Portfolio))
+- 👨‍💻 All of my projects are available at [Abdukarimov portfolio](https://github.com/abdukarimov0990/Portfolio)
 
 - 💬 Ask me about **Are you focusing on frontend development, or do you work with backend technologies too? What's your experience level with HTML, CSS, and JavaScript? Do you prefer using frameworks like React for building UIs, or are you more into vanilla JS? When it comes to styling, do you lean towards Tailwind CSS for utility-first styling, or do you prefer component-based libraries like Bootstrap? Also, how do you approach making websites responsive—do you use media queries, flexbox, grid, or frameworks? Let me know what you're currently working on or struggling with. I'm happy to help! 🚀**
 
