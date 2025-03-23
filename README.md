@@ -2,6 +2,7 @@
 <h3 align="center">Frontend developer from Uzbekistan</h3>
 
 - 🔭 I’m currently working on [Milliard club](https://milliarduz-y5rg.vercel.app/)
+- 📫 How to reach me oyatbek09@gmail.com
 
 - 👨‍💻 All of my projects are available at [Abdukarimov portfolio](https://github.com/abdukarimov0990/Portfolio)
 <h1 align="center">About me:</h1>
@@ -20,7 +21,6 @@ As a frontend developer, I am passionate about creating fast, accessible, and us
 
 
 </p>
-- 📫 How to reach me **oyatbek09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
